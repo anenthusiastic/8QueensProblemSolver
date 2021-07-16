@@ -1,7 +1,7 @@
 # 8QueensProblemSolver
 This is a 8 queen problem solver with hill climbing method. Hill climbing method is sort of AI algorithm
 
-This program find solutions for 8 queen problem. Initially 8 queens arranges randomly on the chessboard. This program changes place of only one piece each times by the hill climbing algorythm. Finally it finds the solution and save it. This method runs much faster than brute force method. Program does this 20 times (i.e. it solves 20 different 8 queen problems). And finally shows the solution of 20 different problem and its piece change counts.
+This program find solutions for 8 queen problem. Initially 8 queens arranges randomly on the chessboard. This program changes place of only one piece each times by the hill climbing algorythm. If hill climbing algorythm stuck in anywhere it restarts the chessboard and rearrange the pieces randomly. Finally it finds the solution and save it. This method runs much faster than brute force method. Program does this 20 times (i.e. it solves 20 different 8 queen problems). And finally shows the solution of 20 different problem and its piece change counts and restart count.
 
 #1 Description of the Problem
 
